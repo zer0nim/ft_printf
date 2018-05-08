@@ -22,7 +22,7 @@ Run `Make`
 * precision with `.`
 * size prefix `hh h l ll j z`
 
-#### Exemple
+#### Example
 ```
 // include the header in your project
 #include "ft_printf.h"
